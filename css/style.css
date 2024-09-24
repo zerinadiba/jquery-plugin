@@ -1,0 +1,39 @@
+.box1{
+	background-color: lightblue;
+	border-radius: 30px;
+}
+.box2{
+	background-color: black;
+	color: white;
+	width: 300px;
+    height: 129px;
+    font-size: 50px;
+}
+.box3{
+	background-color: bisque;
+	color: black;
+	width: 200px;
+    height: 129px;
+    font-size: 50px;
+}
+
+
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+.parallax {
+2
+  background-image      :url('d1.jpg');
+3
+  background-size       : cover;
+4
+  background-position-x :50%;
+5
+  background-position-y :0%;
+6
+  background-repeat     :no-repeat;
+7
+  height:500px;
+8
+}
